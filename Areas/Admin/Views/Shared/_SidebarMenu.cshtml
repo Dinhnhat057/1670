@@ -1,0 +1,78 @@
+﻿@* @using TuyenDungCNTT.Models.Dao *@
+
+@{
+    var baiVietChuaDuyet = 0; //new BaiVietDao().SlBaiViet(null, false);
+    var tinChuaDuyet = 0; //new TinTuyenDungDao().SlTinTuyenDung(null, false);
+}
+
+<div id="sidebar-menu">
+
+    <ul class="metismenu" id="side-menu">
+
+        <li class="menu-title">Hệ thống quản trị</li>
+
+        <li>
+            <a href="javascript: void(0);" class="waves-effect active">
+                <i class="remixicon-stack-line"></i>
+                <span> Quản lý tài khoản </span>
+                <span class="menu-arrow"></span>
+            </a>
+            <ul class="nav-second-level" aria-expanded="false">
+                <li>
+                    <a href="@Url.Action("Index","Account")">Danh sách tài khoản</a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="javascript: void(0);" class="waves-effect">
+                <i class="remixicon-layout-line"></i>
+                <span> Quản lý ứng viên </span>
+                <span class="menu-arrow"></span>
+            </a>
+            <ul class="nav-second-level" aria-expanded="false">
+                <li>
+                    <a href="@Url.Action("Index", "Candidate")">Danh sách ứng viên</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Create","Candidate")">Thêm ứng viên</a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="javascript: void(0);" class="waves-effect">
+                <i class="remixicon-mail-open-line"></i>
+                <span> Quản lý tuyển dụng </span>
+                @if (tinChuaDuyet > 0)
+                {
+                    <span class="badge badge-pink badge-pill float-right">@tinChuaDuyet</span>
+                }
+                else
+                {
+                    <span class="menu-arrow"></span>
+                }
+            </a>
+            <ul class="nav-second-level" aria-expanded="false">
+                <li>
+                    <a href="@Url.Action("Index","Employer")">Danh sách nhà tuyển dụng</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Create","Employer")">Thêm nhà tuyển dụng</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index","Recruitment")">Danh sách tin tuyển dụng</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("TinChoDuyet","Recruitment")" class="waves-effect">
+                        @if (tinChuaDuyet > 0)
+                        {
+                            <span class="badge badge-pink badge-pill float-right">@tinChuaDuyet</span>
+                        }
+                        <span> Tin tuyển dụng chờ duyệt </span>
+                    </a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>

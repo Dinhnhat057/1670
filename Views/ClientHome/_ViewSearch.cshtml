@@ -1,0 +1,20 @@
+﻿@using Microsoft.AspNetCore.Http;
+@{
+    string keyword = Context.Request.Query["KeyWord"];
+}
+@using (Html.BeginForm("Search", "ClientHome", FormMethod.Get, new { @id = "search__form", @class = "main__search--form row" }))
+{
+    <div class="col l-10 m-10 c-10">
+        <div class="search__item">
+            <input class="search__input" id="keyword" name="KeyWord" autocomplete="off" type="text" value="@keyword" placeholder="Từ khóa công việc...">
+            <div class="search__autocom--box">
+            </div>
+        </div>
+    </div>
+    <div class="search__item col l-2 m-2 c-3">
+        <button class="search__submit button--link">
+            <span><i class="icon-search fas fa-search"></i></span>
+            Tìm kiếm
+        </button>
+    </div>
+}

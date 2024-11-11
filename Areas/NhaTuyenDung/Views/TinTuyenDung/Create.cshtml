@@ -1,0 +1,140 @@
+﻿@model TuyenDungCore.Models.Dtos.TinTuyenDung.TinTuyenDungCreate
+@* @using TuyenDungCNTT.Models.Dao *@
+
+@{
+    // TinTuyenDungDao dao = new TinTuyenDungDao();
+    // var listCapBac = dao.ListCapBac();
+    // var listChuyenNganh = dao.ListChuyenNganh();
+    // var listLoaiCV = dao.ListLoaiCV();
+    // var listMucLuong = dao.ListMucLuong();
+    // var listDiaChi = dao.ListDiaChi();
+
+    ViewBag.Title = "Đăng tin tuyển dụng mới";
+    ViewBag.PrevPage = "Tin tuyển dụng";
+    ViewBag.CurrentPage = "Đăng tin mới";
+    Layout = "~/Areas/NhaTuyenDung/Views/Shared/_LayoutEmployer.cshtml";
+}
+
+
+@section scripts {
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/css/bootstrap-select.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/bootstrap-select.min.js"></script>
+    <script src="~/Assets/Plugins/ckeditor/ckeditor.js"></script>
+
+    <script>
+        CKEDITOR.replace("txtMoTa");
+        CKEDITOR.replace("txtYeuCau");
+        CKEDITOR.replace("txtKyNang");
+        CKEDITOR.replace("txtQuyenLoi");
+    </script>
+}
+
+<div class="row">
+    <div class="col-xl-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="row col-md-12">
+                    <h4 class="header-title mb-0">ĐĂNG TIN TUYỂN DỤNG</h4>
+                </div>
+                <div class="collapse pt-3 show">
+                    @using (Html.BeginForm("Create", "TinTuyenDung", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Name, "Tên công việc", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Salary, "Mức lương", new { @class = "control-label col-md-2" })
+                                <div class="col-md-4">
+                                    @Html.TextBoxFor(model => model.Salary, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.Salary, "", new { @class = "text-danger" })
+                                </div>
+                                @Html.LabelFor(model => model.Gender, "Giới tính", new { @class = "control-label col-md-2" })
+                                <div class="col-md-4">
+                                    @Html.DropDownListFor(model => model.Gender, new List<SelectListItem>()
+                                {
+                                new SelectListItem() {Value = "Nam", Text = "Nam"},
+                                new SelectListItem() {Value = "Nữ", Text = "Nữ"},
+                                new SelectListItem() {Value = "Không yêu cầu", Text = "Không yêu cầu"}
+                                }, "-- Chọn giới tính yêu cầu --", new { @class = "form-control text-box single-line selectpicker", @data_live_search = "true" })
+                                    @Html.ValidationMessageFor(model => model.Gender, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Address, "Địa chỉ làm việc", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextBoxFor(model => model.Address, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Description, "Mô tả công việc", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextAreaFor(model => model.Description, new { @class = "form-control", id = "txtMoTa" })
+                                    @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.CandidateRequirements, "Yêu cầu ứng viên", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextAreaFor(model => model.CandidateRequirements, new { @class = "form-control", id = "txtYeuCau" })
+                                    @Html.ValidationMessageFor(model => model.CandidateRequirements, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.RelatedSkills, "Kỹ năng liên quan", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextAreaFor(model => model.RelatedSkills, new { @class = "form-control", id = "txtKyNang" })
+                                    @Html.ValidationMessageFor(model => model.RelatedSkills, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Right, "Quyền lợi", new { @class = "control-label col-md-2" })
+                                <div class="col-md-10">
+                                    @Html.TextAreaFor(model => model.Right, new { @class = "form-control", id = "txtQuyenLoi" })
+                                    @Html.ValidationMessageFor(model => model.Right, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Quantity, "Số lượng tuyển", new { @class = "control-label col-md-2" })
+                                <div class="col-md-6">
+                                    @Html.TextBoxFor(model => model.Quantity, new { @class = "form-control", @type = "number" })
+                                    @Html.ValidationMessageFor(model => model.Quantity, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Dealine, "Hạn nộp", new { @class = "control-label col-md-2" })
+                                <div class="col-md-6">
+                                    @Html.TextBoxFor(model => model.Dealine, new { @class = "form-control", @type = "datetime-local" })
+                                    @Html.ValidationMessageFor(model => model.Dealine, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row mt-3 text-right">
+                                <div class="col-md-12">
+                                    @Html.ActionLink("Trở về", "Index", "TinTuyenDung", null, new { @class = "btn btn-light" })
+                                    <input type="submit" value="Tạo mới" class="btn btn-primary" />
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

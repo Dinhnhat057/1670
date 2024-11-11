@@ -1,0 +1,106 @@
+﻿@model TuyenDungCore.Models.Dtos.Candidate.CandidateEdit
+
+@{
+    ViewBag.Title = "Thông tin cá nhân";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section css_Main {
+    <link rel="stylesheet" href="~/Assets/Admin/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Assets/Client/css/info.css">
+}
+
+@section scripts_Main {
+    <script src="~/Assets/Client/js/style.js"></script>
+    <script src="~/Assets/Client/js/info.js"></script>
+}
+
+
+<div class="main__fixed bg-img"></div>
+
+<div class="main__content">
+    <div class="main__content--wrapper grid wide">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-header">
+                            <h4 class="header-title mb-0">Thông tin cá nhân</h4>
+                        </div>
+                        <div class="collapse pt-3 show">
+                            @using (Html.BeginForm("Info", "ClientHome", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                            {
+                                @Html.AntiForgeryToken()
+
+                                <div class="form-horizontal">
+                                    @Html.HiddenFor(model => model.Id)
+
+                                    <div class="form-group align-items-center justify-content-center row mt-5">
+                                        @Html.LabelFor(model => model.Name, "Họ tên", new { @class = "control-label col-md-2" })
+                                        <div class="col-md-6">
+                                            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group align-items-center justify-content-center row">
+                                        @Html.LabelFor(model => model.Phone, "Số điện thoại", new { @class = "control-label col-md-2" })
+                                        <div class="col-md-6">
+                                            @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group align-items-center justify-content-center row">
+                                        @Html.LabelFor(model => model.Gender, "Giới tính", new { @class = "control-label col-md-2" })
+                                        <div class="col-md-6">
+                                            @Html.DropDownListFor(model => model.Gender, new List<SelectListItem>()
+                                        {
+                                        new SelectListItem() {Value = "Nam", Text = "Nam"},
+                                        new SelectListItem() {Value = "Nữ", Text = "Nữ"}
+                                        }, "-- Chọn giới tính --",
+                                                     new { @class = "form-control text-box single-line" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group align-items-center justify-content-center row">
+                                        @Html.LabelFor(model => model.Dob, "Nhập ngày sinh", new { @class = "control-label col-md-2" })
+                                        <div class="col-md-6">
+                                            @Html.EditorFor(model => model.Dob, new { htmlAttributes = new { @class = "form-control", @type = "date" } })
+                                            @Html.ValidationMessageFor(model => model.Dob, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group align-items-center justify-content-center row">
+                                        @Html.LabelFor(model => model.Address, "Nhập địa chỉ", new { @class = "control-label col-md-2" })
+                                        <div class="col-md-6">
+                                            @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+                                            @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group align-items-center justify-content-center row">
+                                        <div class="col-md-2"></div>
+                                        <div class="col-md-6">
+                                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group align-items-center justify-content-center row mt-3">
+                                        <div class="col-md-2">
+                                            @Html.ActionLink("Trở về", "Index", "ClientHome", null, new { @class = "btn btn-light" })
+                                        </div>
+
+                                        <div class="col-md-6">
+                                            <input type="submit" value="Cập nhật thông tin" class="btn btn-primary" />
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

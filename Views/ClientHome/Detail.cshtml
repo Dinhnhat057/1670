@@ -1,0 +1,192 @@
+﻿@model TuyenDungCore.Models.Dtos.TinTuyenDung.TinTuyenDungDto
+@using TuyenDungCore.Models.Dtos;
+@using TuyenDungCore.Commons;
+@using Microsoft.AspNetCore.Http;
+@using System.Text.Json;
+@{
+    UserLogin? userLogin = null;
+    var userString = ViewContext.HttpContext.Session.GetString(CommonConstants.USER_SESSION);
+    if (!string.IsNullOrEmpty(userString))
+    {
+        userLogin = JsonSerializer.Deserialize<UserLogin>(userString);
+    }
+}
+@{
+    ViewBag.Title = Model.Name + " - " + Model.TenNTD;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section css_Main {
+    <link rel="stylesheet" href="~/Assets/Client/css/tintuyendung.css">
+}
+
+@section scripts_Main {
+    <script src="~/Assets/Client/js/style.js"></script>
+    <script src="~/Assets/Client/js/searchkey.js"></script>
+    <script src="~/Assets/Client/js/tintuyendung.js"></script>
+}
+
+<div class="main__fixed bg-img"></div>
+<div class="main__search">
+    <div class="main__search--wrapper grid wide">
+        @{ await Html.RenderPartialAsync("_ViewSearch");}
+    </div>
+</div>
+
+<!-- Main Content -->
+<div class="main__employer">
+    <div class="main__employer--wrapper grid wide">
+        <div class="main__employer--info">
+            <div class="employer__info--recruitment c-flex">
+                <h1>@Model.Name</h1>
+                <div class="employer__info--link">
+                    <a href="">
+                        <i class="far fa-building"></i>
+                        @Model.TenNTD
+                    </a>
+                </div>
+                <div class="employer__info--deadline">
+                    <i class="fa-regular fa-clock"></i>
+                    Hạn nộp: @Model.Dealine
+                </div>
+            </div>
+            @if (userLogin != null)
+            {
+                <div class="employer__info--apply">
+                    <div class="employer__apply--cv">
+                        @if(Model.IsApply)
+                        {
+                            <button disabled class="apply__cv--button button--link">Đã Ứng Tuyển</button>
+                        }
+                        else
+                        {
+                            <button class="apply__cv--button button--link">Ứng tuyển</button>
+                        }
+                        
+                    </div>
+                    <form class="employer__apply--save" method="post">
+                        @Html.Hidden("MaTTD", Model.Id)
+                        <button class="apply__save--button button--link">
+                            @if (ViewBag.Status != null)
+                            {
+                                if ((int)ViewBag.Status > 0)
+                                {
+                                    <i class="fa-solid fa-heart"></i>
+                                    <span>Bỏ lưu</span>
+                                }
+                                else
+                                {
+                                    <i class="fa-solid fa-heart"></i>
+                                    <span>Lưu tin</span>
+                                }
+                            }
+                            else
+                            {
+                                <i class="fa-solid fa-heart"></i>
+                                <span>Lưu tin</span>
+                            }
+                        </button>
+                    </form>
+
+                </div>
+            }
+            
+        </div>
+        <div class="main__employer--content row">
+            <div class="col c-4">
+                <div class="employer__content--company">
+                    <h2 class="employer--title">Nhà tuyển dụng: </h2>
+                    <ul class="content__company--list">
+                        <li>
+                            <a href="">
+                                <i class="fa-solid fa-building"></i>
+                                <strong>@Model.TenNTD</strong>
+                            </a>
+                            <p>@Model.DescriptionNTD</p>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-user-group"></i>
+                            <strong>Quy mô: </strong><span>@Model.Scale</span>
+                        </li>
+                        <li>
+                            <i class="fa-solid fa-map-location"></i>
+                            <strong>Địa chỉ: </strong><span>@Model.Address</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col c-8">
+                <h1 class="employer__content--title employer--title">Chi tiết công việc</h1>
+                <div class="employer__content--info">
+                    <h3 class="content__info--title">1. Thông tin tuyển dụng</h3>
+                    <ul class="content__info--list">
+                        <li>Mức lương: @Model.Salary</li>
+                        <li>Giới tính: @Model.Gender</li>
+                        <li>Số lượng tuyển: @Model.Quatity</li>
+                        <li>
+                            Địa điểm làm việc:  @Model.Address
+                        </li>
+                    </ul>
+                    <h3 class="content__info--title">2. Mô tả công việc</h3>
+                    <div style="padding-left: 20px">
+                        <p>@Html.Raw(Model.Description)</p>
+                    </div>
+                    <h3 class="content__info--title">3. Yêu cầu ứng viên</h3>
+                    <div style="padding-left: 20px">
+                        <p>
+                            @Html.Raw(Model.CandidateRequirements)
+                        </p>
+                    </div>
+                    <h3 class="content__info--title">4. Kỹ năng liên quan</h3>
+                    <div style="padding-left: 20px">
+                        <p>
+                            @Html.Raw(Model.RelatedSkills)
+                        </p>
+                    </div>
+                    <h3 class="content__info--title">5. Quyền lợi</h3>
+                    <div style="padding-left: 20px">
+                        <p>
+                            @Html.Raw(Model.Right)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="main__apply">
+    @using (Html.BeginForm("Recruitment", "ClientHome", FormMethod.Post, new { @class = "main__apply--post", enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(m => m.Id)
+        <div class="main__apply--title">
+            <h4>Ứng tuyển <span>@Model.Name</span></h4>
+            <div class="apply--close"></div>
+        </div>
+        <div class="main__apply--content">
+            <div class="main__apply--note">
+                <h4>Lời nhắn:</h4>
+                @Html.TextAreaFor(m => m.Introduction, new { @required=true, @class = "form-control", placeholder = "Bạn có thể nêu mong muốn, lý do lựa chọn công ty này nhằm gây ấn tượng với nhà tuyển dụng..." })
+            </div>
+            <div class="main__apply--upload">
+                <div>
+                    <label for="cv_type-upload">Tải CV từ máy tính</label>
+                    <div class="apply__content--uploadcv">
+                        @Html.TextBoxFor(m => m.FileCV, new { @class = "form-control hidden", @type = "file", id = "cv_upload" })
+                        <label for="cv_upload" class="lb_upload">
+                            <i class="fa-solid fa-upload"></i>
+                            Chọn file
+                        </label>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            <div class="main__apply--button">
+
+                <button type="button" class="apply__button--cancel">Bỏ qua</button>
+                <button class="apply__button--submit">Nộp CV</button>
+            </div>
+        </div>
+    }
+</div>

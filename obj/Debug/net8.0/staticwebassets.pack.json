@@ -1,0 +1,1357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TuyenDungCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TuyenDungCore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\fa-solid-900-2.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\fa-solid-900-2.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\fa-solid-900-3.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\fa-solid-900-3.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\fa-solid-900-4.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\fa-solid-900-4.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\feather-1.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\feather-1.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\feather-2.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\feather-2.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\materialdesignicons-webfont-2.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\materialdesignicons-webfont-2.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\materialdesignicons-webfont-3.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\materialdesignicons-webfont-3.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\materialdesignicons-webfont-4.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\materialdesignicons-webfont-4.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\fonts\\remixicon-1.bin",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\fonts\\remixicon-1.bin"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\img\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\img\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\img\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\DanhMuc\\app.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\DanhMuc\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\DanhMuc\\capbac.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\DanhMuc\\capbac.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\DanhMuc\\chuyennganh.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\DanhMuc\\chuyennganh.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\DanhMuc\\controller.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\DanhMuc\\controller.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\DanhMuc\\diachi.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\DanhMuc\\diachi.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\DanhMuc\\loaicv.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\DanhMuc\\loaicv.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\DanhMuc\\mucluong.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\DanhMuc\\mucluong.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\baiVietChoDuyet.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\baiVietChoDuyet.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\baiVietController.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\baiVietController.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\common.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\nhaTuyenDungController.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\nhaTuyenDungController.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\tintuyendungChoDuyet.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\tintuyendungChoDuyet.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\tintuyendungController.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\tintuyendungController.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\ungVienController.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\ungVienController.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\userController.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\userController.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Admin\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\Assets\\Admin\\js\\vendor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\HoSo\\style.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\HoSo\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\HoSo\\style.css.map",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\HoSo\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\baiViet.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\baiViet.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\base.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\dangnhap.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\dangnhap.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\grid.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\grid.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\home.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\hoso.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\hoso.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\info.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\info.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\infotuyendung.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\infotuyendung.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\nhatuyendung.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\nhatuyendung.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\response.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\response.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\search.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\search.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\css\\tintuyendung.css",
+      "PackagePath": "staticwebassets\\Assets\\Client\\css\\tintuyendung.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Blogs\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Blogs\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Blogs\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Blogs\\blog_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Blogs\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Blogs\\blog_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Candidate\\cover-default.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Candidate\\cover-default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Candidate\\user-default.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Candidate\\user-default.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\avatar_1599494254872.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\avatar_1599494254872.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\avatar_1603344490671.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\avatar_1603344490671.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\avatar_1618804000607.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\avatar_1618804000607.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\avatar_1625285710869.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\avatar_1625285710869.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\avatar_1626082875301.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\avatar_1626082875301.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\avatar_1639464398593.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\avatar_1639464398593.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\avatar_1639967923096.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\avatar_1639967923096.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\avatar_1639983010356.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\avatar_1639983010356.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\Employer\\cover_1645502216576.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\Employer\\cover_1645502216576.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\bg-seccity.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\bg-seccity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\cover-default.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\cover-default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\create_cv.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\create_cv.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\loading-buffering.gif",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\loading-buffering.gif"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\img\\upload_cv.png",
+      "PackagePath": "staticwebassets\\Assets\\Client\\img\\upload_cv.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\Employer\\baiViet.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\Employer\\baiViet.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\Employer\\baiVietChoDuyet.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\Employer\\baiVietChoDuyet.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\Employer\\infonhatuyendung.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\Employer\\infonhatuyendung.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\Employer\\timHoSo.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\Employer\\timHoSo.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\Employer\\tinTuyenDung.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\Employer\\tinTuyenDung.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\Employer\\tinTuyenDungChoDuyet.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\Employer\\tinTuyenDungChoDuyet.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\Employer\\tinTuyenDungHetHan.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\Employer\\tinTuyenDungHetHan.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\Employer\\ungTuyen.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\Employer\\ungTuyen.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\home.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\info.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\info.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\nhatuyendung.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\nhatuyendung.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\searchResult.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\searchResult.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\searchkey.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\searchkey.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\style.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\style.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Client\\js\\tintuyendung.js",
+      "PackagePath": "staticwebassets\\Assets\\Client\\js\\tintuyendung.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\kama\\balloonpanel.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\kama\\balloonpanel.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\balloonpanel.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\balloonpanel.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\balloonpanel.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\balloonpanel.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\images\\close.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloonpanel\\skins\\moono\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloontoolbar\\skins\\default.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloontoolbar\\skins\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloontoolbar\\skins\\kama\\balloontoolbar.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloontoolbar\\skins\\kama\\balloontoolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloontoolbar\\skins\\moono-lisa\\balloontoolbar.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloontoolbar\\skins\\moono-lisa\\balloontoolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\balloontoolbar\\skins\\moono\\balloontoolbar.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\balloontoolbar\\skins\\moono\\balloontoolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\easyimage\\dialogs\\easyimagealt.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\easyimage\\dialogs\\easyimagealt.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\easyimage\\styles\\easyimage.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\easyimage\\styles\\easyimage.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\imagebase\\styles\\imagebase.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\imagebase\\styles\\imagebase.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\easyimage\\easyimage.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\easyimage\\easyimage.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\Assets\\Plugins\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\Assets\\Plugins\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84905\\Downloads\\TuyenDungCore\\TuyenDungCore\\TuyenDungCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TuyenDungCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TuyenDungCore.props",
+      "PackagePath": "build\\TuyenDungCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TuyenDungCore.props",
+      "PackagePath": "buildMultiTargeting\\TuyenDungCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TuyenDungCore.props",
+      "PackagePath": "buildTransitive\\TuyenDungCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

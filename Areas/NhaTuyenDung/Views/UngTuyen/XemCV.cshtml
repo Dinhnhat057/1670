@@ -1,0 +1,73 @@
+﻿@model TuyenDungCore.Models.Dtos.UngTuyen.UngTuyenVm
+
+@{
+    ViewBag.Title = "Chi tiết hồ sơ xin việc của ứng viên";
+    ViewBag.PrevPage = "Quản lý ứng viên";
+    ViewBag.CurrentPage = "Chi tiết hồ sơ xin việc của ứng viên";
+    Layout = "~/Areas/NhaTuyenDung/Views/Shared/_LayoutEmployer.cshtml";
+}
+
+<div class="row">
+    <div class="col-xl-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="card-header py-2">
+                    <h4 class="header-title mb-0">Tiêu đề công việc: @Model.JobName</h4>
+                </div>
+                <div class="collapse pt-3 show">
+                    <div class="form-horizontal">
+                        <div class="form-group align-items-center row">
+                            @Html.LabelFor(model => model.CandidateName, "Tên ứng viên", new { @class = "control-label col-md-2" })
+                            <div class="col-md-6">
+                                @Html.DisplayTextFor(model => model.CandidateName)
+                            </div>
+                        </div>
+
+                        <div class="form-group align-items-center row">
+                            @Html.LabelFor(model => model.CandidatePhone, "Số điện thoại", new { @class = "control-label col-md-2" })
+                            <div class="col-md-6">
+                                @Html.DisplayTextFor(model => model.CandidatePhone)
+                            </div>
+                        </div>
+
+                        <div class="form-group align-items-center row">
+                            @Html.LabelFor(model => model.Gender, "Giới tính", new { @class = "control-label col-md-2" })
+                            <div class="col-md-6">
+                                @Html.DisplayTextFor(model => model.Gender)
+                            </div>
+                        </div>
+
+                        <div class="form-group align-items-center row">
+                            @Html.LabelFor(model => model.RecruitmentDate, "Ngày ứng tuyển", new { @class = "control-label col-md-2" })
+                            <div class="col-md-6">
+                                @Html.DisplayTextFor(model => model.RecruitmentDate)
+                            </div>
+                        </div>
+                        <div class="form-group align-items-center row">
+                            @Html.LabelFor(model => model.RecruitmentDate, "File CV Ứng Viên", new { @class = "control-label col-md-2" })
+                            <div class="col-md-6">
+                                <a href="@Url.Action("DownloadFile", "UngTuyen", new{ id = Model.Id })">@Model.FileCV</a>
+                            </div>
+                        </div>
+
+                        <div class="form-group align-items-center row">
+                            @Html.LabelFor(model => model.Introduction, "Lời giới thiệu", new { @class = "control-label col-md-2" })
+                            <div class="col-md-6">
+                                @Html.DisplayTextFor(model => model.Introduction)
+                            </div>
+                        </div>
+
+                        <div class="form-group align-items-center row mt-3">
+                            <div class="col-md-2">
+                            </div>
+
+                            <div class="col-md-6">
+                                @Html.ActionLink("Trở về", "Index", "UngTuyen", null, new { @class = "btn btn-primary" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

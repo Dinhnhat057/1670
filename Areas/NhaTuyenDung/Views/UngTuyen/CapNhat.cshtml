@@ -1,0 +1,78 @@
+﻿@using TuyenDungCore.Commons
+@model TuyenDungCore.Models.Dtos.UngTuyen.UngTuyenVm
+
+@{
+    ViewBag.Title = "Cập nhật trạng thái";
+    ViewBag.PrevPage = "Danh sách ứng tuyển";
+    ViewBag.CurrentPage = "Cập nhật trạng thái";
+    Layout = "~/Areas/NhaTuyenDung/Views/Shared/_LayoutEmployer.cshtml";
+}
+
+<div class="row">
+    <div class="col-xl-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="card-header py-2">
+                    <h4 class="header-title mb-0">Cập nhật trạng thái ứng tuyển của ứng viên</h4>
+                </div>
+                <div class="collapse pt-3 show">
+                    @using (Html.BeginForm("CapNhat", "UngTuyen", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            @Html.HiddenFor(model => model.Id)
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.JobName, "Tên công việc", new { @class = "control-label col-md-2" })
+                                <div class="col-md-6">
+                                    @Html.DisplayFor(model => model.JobName, new { @class = "form-control", @readonly = "true" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.CandidateName, "Tên ứng viên", new { @class = "control-label col-md-2" })
+                                <div class="col-md-6">
+                                    @Html.DisplayFor(model => model.CandidateName, new { @class = "form-control", @readonly = "true" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Introduction, "Lời giới thiệu", new { @class = "control-label col-md-2" })
+                                <div class="col-md-6">
+                                    @Html.DisplayFor(model => model.Introduction, new { @class = "form-control", @readonly = "true" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row">
+                                @Html.LabelFor(model => model.Status, "Quyền", new { @class = "control-label col-md-2" })
+                                <div class="col-md-6">
+                                    @Html.DropDownListFor(model => model.Status, new List<SelectListItem>()
+                                {
+                                new SelectListItem() {Value = "4", Text = TrangThaiUngTuyen.CHAPNHAN},
+                                new SelectListItem() {Value = "5", Text = TrangThaiUngTuyen.TIEMNANG},
+                                new SelectListItem() {Value = "6", Text = TrangThaiUngTuyen.HENPHONGVAN},
+                                new SelectListItem() {Value = "3", Text = TrangThaiUngTuyen.TUCHOI }
+                                }, "-- Chọn trạng thái --", new { @class = "form-control text-box single-line" })
+                                </div>
+                            </div>
+
+                            <div class="form-group align-items-center row mt-3">
+                                <div class="col-md-2">
+                                    @Html.ActionLink("Trở về", "Index", "UngTuyen", null, new { @class = "btn btn-light" })
+                                </div>
+
+                                <div class="col-md-6">
+                                    <input type="submit" value="Cập nhật" class="btn btn-primary" />
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
